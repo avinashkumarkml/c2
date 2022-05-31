@@ -1,0 +1,21 @@
+#box{
+    width: 450px;
+    height: 400px;
+    background-color: orange;
+    margin: auto;
+}
+#box label{
+    font-size: larger;
+    margin-left: 15px;
+}
+#box input{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#box button{
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+}
